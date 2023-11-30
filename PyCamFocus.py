@@ -37,7 +37,6 @@ if not cap.isOpened():
 cap.set(cv2.CAP_PROP_FRAME_WIDTH, desired_width)
 cap.set(cv2.CAP_PROP_FRAME_HEIGHT, desired_height)
 
-
 # Set the frame rate
 cap.set(cv2.CAP_PROP_FPS, desired_fps)
 
