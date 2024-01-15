@@ -12,7 +12,9 @@ to control the focus manually. So I took the matter into
 my own hands with this small Python script.
 
 To use this script you will need to install
-OpenCV2 using the command: pip install opencv-python
+OpenCV2 and Pynput using the commands:
+pip install opencv-python
+pip install pynput
 
 Using the script is simple. You may launch the script by
 double-clicking on the file or using the command
